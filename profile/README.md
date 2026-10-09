@@ -8,9 +8,9 @@ containers, and every feature is exercised by automated scenarios in a fresh lab
 
 | Repository | What it holds |
 |---|---|
-| **[openmcx-server](https://github.com/openMCX/openmcx-server)** | The MCPTT, MCData and MCVideo servers (participating and controlling functions), the common services (IdMS, GMS, CMS, KMS, LMS, message store), the HTTP proxy, the user database, the lab tools, the regression scenarios and the tutorials |
-| **[openmcx-client](https://github.com/openMCX/openmcx-client)** | The clients: the Android app, the dispatcher position in the browser, and `mcx-client`, the headless Linux MC client that the lab scenarios drive |
-| **[openmcx-admin](https://github.com/openMCX/openmcx-admin)** | MCX Admin: MC user profiles, groups and rights in a web UI or from a spreadsheet, and client activation |
+| **[openmcx&#8209;server](https://github.com/openMCX/openmcx-server)** | The MCPTT, MCData and MCVideo servers (participating and controlling functions), the common services (IdMS, GMS, CMS, KMS, LMS, message store), the HTTP proxy, the user database, the lab tools, the regression scenarios and the tutorials |
+| **[openmcx&#8209;client](https://github.com/openMCX/openmcx-client)** | The clients: the Android app, the dispatcher position in the browser, and `mcx-client`, the headless Linux MC client that the lab scenarios drive |
+| **[openmcx&#8209;admin](https://github.com/openMCX/openmcx-admin)** | MCX Admin: MC user profiles, groups and rights in a web UI or from a spreadsheet, and client activation |
 
 ## Services
 
