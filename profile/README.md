@@ -2,9 +2,8 @@
 
 Project OpenMCX is an open implementation of the **3GPP Release 19 Mission Critical Services (MCX)** which comprises **MCPTT** (mission-critical push to talk), **MCData** (mission-critical data) and **MCVideo**
 (mission-critical video), with their common services, written from the 3GPP specifications. Everything runs in
-containers, and every feature is exercised by automated scenarios in a fresh lab.
-
-**Website:** [openmcx.com](https://openmcx.com)
+containers, and every feature is exercised by automated scenarios in a fresh lab. More about the project at
+[openmcx.com](https://openmcx.com).
 
 ## Repositories
 
