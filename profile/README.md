@@ -38,6 +38,6 @@ interoperability-certified implementation; each repository documents its current
 
 ## Licence
 
-OpenMCX is licensed under the [GNU Affero General Public License v3.0 or later](https://github.com/openMCX/openmcx-server/blob/main/LICENSE);
-a commercial licence is available from the OpenMCX authors. Third-party software and its licences are listed in each
+OpenMCX is licensed under the [GNU Affero General Public License v3.0 or later](https://github.com/openMCX/openmcx-server/blob/main/LICENSE).
+Third-party software and its licences are listed in each
 repository's NOTICE.
